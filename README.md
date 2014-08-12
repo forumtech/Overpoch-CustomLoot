@@ -8,7 +8,7 @@ I am adding this as many people seem to have a problem setting up custom loot on
 This pack contains the following: 
 - Overpoch custom CfgBuildingPos.hpp
 - Overpoch custom CfgBuildingLoot.hpp 
-- Overpoch custom CfgLoot.hpp 
+- Overpoch custom CfgLoot.hpp
 - Overpoch custom CfgLootSmall.hpp
 
 - Example portion of missions description.ext
