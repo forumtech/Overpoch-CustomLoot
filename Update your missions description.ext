@@ -1,0 +1,7 @@
+
+
+Under the following line: 
+enableItemsDropping=0;
+
+Add: 
+#include "loottable\CfgBuildingLoot.hpp"
